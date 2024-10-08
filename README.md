@@ -18,4 +18,4 @@ Mesin Kasir Sederhana merupakan Tugas Asisten Dasar Pemrograman untuk Praktikum 
 - **`main()`**: Fungsi utama program yang menerima input dari pengguna, seperti nama barang, harga, dan jumlah. Program ini juga menerima input diskon dan memanggil fungsi `print_receipt` untuk mencetak struk.
 
 ## OUTPUT
-Output yang dikeluarkan oleh program berbentuk seperti struk dimana berisikan barang apa saja yang diinputkan user kemudian baru berisi harga sebelum diskon, total diskon, dan hasil harga setelah diskon dan harus dibayarkan.
+Output yang dikeluarkan oleh program berbentuk seperti struk dimana berisikan barang apa saja yang diinputkan user kemudian baru berisi harga sebelum diskon, total diskon, dan hasil harga setelah diskon dan harus dibayarkan. Salah keunggulan Program ini juga bisa menerima harga barang hingga nominal juta dan mengahsilkan output dalam nominal jutaan.
